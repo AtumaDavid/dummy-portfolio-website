@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dummy-portfolio-website/static/css/main.7ce6cf34.css",
+    "main.js": "/dummy-portfolio-website/static/js/main.31a25a9d.js",
+    "static/media/pexels-fauxels-3183198.jpg": "/dummy-portfolio-website/static/media/pexels-fauxels-3183198.bdc466fb5b534464ab01.jpg",
+    "static/media/275120.jpg": "/dummy-portfolio-website/static/media/275120.49e4e045fd33311889bb.jpg",
+    "static/media/me.jpg": "/dummy-portfolio-website/static/media/me.10fdd497c8d0f92cb3db.jpg",
+    "static/media/pexels-philippe-donn-1114690.jpg": "/dummy-portfolio-website/static/media/pexels-philippe-donn-1114690.33b21e5968ed65e0b1ea.jpg",
+    "static/media/pexels-james-wheeler-1519088.jpg": "/dummy-portfolio-website/static/media/pexels-james-wheeler-1519088.b76c161ab370ce0ca194.jpg",
+    "static/media/pexels-pixabay-60597.jpg": "/dummy-portfolio-website/static/media/pexels-pixabay-60597.8ca2ed277bc87d1afc22.jpg",
+    "static/media/54150.jpg": "/dummy-portfolio-website/static/media/54150.3cdad42bc31ad91295ef.jpg",
+    "index.html": "/dummy-portfolio-website/index.html",
+    "main.7ce6cf34.css.map": "/dummy-portfolio-website/static/css/main.7ce6cf34.css.map",
+    "main.31a25a9d.js.map": "/dummy-portfolio-website/static/js/main.31a25a9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ce6cf34.css",
+    "static/js/main.31a25a9d.js"
+  ]
+}
